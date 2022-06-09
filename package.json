@@ -1,0 +1,28 @@
+{
+  "name": "NextJS_UlbiTV",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umka1993/NextJS_UlbiTV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umka1993/NextJS_UlbiTV/issues"
+  },
+  "homepage": "https://github.com/Umka1993/NextJS_UlbiTV#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "sass": "^1.52.3"
+  }
+}
